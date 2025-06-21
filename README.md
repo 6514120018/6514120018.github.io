@@ -1,5 +1,5 @@
 # suphasorn.github.io
-Homework
-ศุภสรณ์ ลีลาสถาพรชัย Suphasorn Leelasathapornchai
-เล่นเกม
-Sec
+Homework\n
+ศุภสรณ์ ลีลาสถาพรชัย\n Suphasorn Leelasathapornchai
+\nเล่นเกม
+\nSec
